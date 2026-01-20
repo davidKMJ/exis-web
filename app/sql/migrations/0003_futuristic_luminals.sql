@@ -1,0 +1,1 @@
+ALTER TABLE "workouts" ADD COLUMN "is_rest" boolean DEFAULT false NOT NULL;
