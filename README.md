@@ -15,7 +15,7 @@ A web prototype for EXIS, an AI-powered fitness platform that provides personali
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/davidKMJ/exis-web.git
 cd exis-web
 
 # Install dependencies
