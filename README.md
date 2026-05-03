@@ -1,5 +1,5 @@
 # exis-web
-![Static Badge](https://img.shields.io/badge/status-in_progress-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/status-done-brightgreen?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/type-side_project-blue?style=for-the-badge)
 
 A web prototype for EXIS, an AI-powered fitness platform that provides personalized workout plans, AI trainer guidance, community support, and team collaboration. Built with React Router v7, Supabase.
